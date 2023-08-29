@@ -14,3 +14,12 @@ As you work on this Challenge, remember that you’re strengthening the same cor
 Downloaded the following files to get started:
 
 Module 11 Challenge [files](https://bootcampspot.instructure.com/courses/3819/assignments/56638?module_item_id=999855)
+
+
+## What You're Creating ##
+
+This new assignment consists of two technical products. Submitted the following deliverables:
+
+- Deliverable 1: Scrape titles and preview text from Mars news articles.
+
+- Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
